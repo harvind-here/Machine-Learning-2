@@ -34,7 +34,7 @@ For each model, we trained, evaluated, and plotted confusion matrices to visuali
 
 ```bash
 git clone https://github.com/yourusername/ml-predictive-models.git
-cd ml-predictive-models
+cd machine-learning-2
 ```
 
 Install dependencies:
